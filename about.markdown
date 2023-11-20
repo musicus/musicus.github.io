@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-Reiner Krämer is a pedagogue, music theorist, digital humanist, composer, programmer, and entrepreneur. Reiner Krämer earned a Ph.D. in Music Theory with a related field in Computer Music Composition from the University of North Texas (UNT), and worked as a Postdoctoral Researcher within the Music Technology department at McGill University’s Schulich School of Music. While in Montréal, Reiner was a member of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT). 
+Reiner Krämer is a pedagogue, music theorist, digital humanist, composer, programmer, and entrepreneur. Reiner earned a Ph.D. in Music Theory with a related field in Computer Music Composition from the University of North Texas (UNT), and worked for the SIMSSA project as Julie Cumming's Postdoctoral Researcher within the Music Technology department at McGill University’s Schulich School of Music. While in Montréal, Reiner was a member of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT). 
 
 Reiner currently teaches music theory and composition at the University of Northern Colorado. At McGill University, Reiner led and mentored an interdisciplinary research team of undergraduate and graduate students. Reiner taught courses in Music Appreciation, Music Arranging, Music Technology, the History of Rock Music, and Music Theory at Northeastern State University, as well as courses in New Media, Music Technology, and Music Theory at UNT. Reiner was a researcher at the Hybrid Arts Lab as part of the Initiative for Advanced Research in Technology and the Arts at UNT. 
 
