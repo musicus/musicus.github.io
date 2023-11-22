@@ -1,6 +1,6 @@
 ---
 layout: home #page
-title: about
+# title: about
 # permalink: #/about/
 ---
 
