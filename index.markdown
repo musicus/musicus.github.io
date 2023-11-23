@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 
+permalink: /
 ---
 
 Reiner Krämer is a teacher, music theorist, composer, programmer, [digital humanist](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/){:target="_blank"}, [entrepreneur](https://www.mathnasium.com/boulder/about){:target="_blank"}, runner, and [telemark skier](https://www.youtube.com/watch?v=JCF_ejx4-Kc){:target="_blank"}, and currently resides in the beautiful state of [Colorado](https://www.colorado.com){:target="_blank"}, U.S.A. 
