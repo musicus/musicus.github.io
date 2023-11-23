@@ -31,7 +31,8 @@ github_username: musicus
 instagram_usernamer: keiner_wie_reiner
 
 # Build settings
-theme: minima
+# Removed minima theme, and re-purpose it as custom theme
+# theme: minima
 plugins:
   - jekyll-feed
 
