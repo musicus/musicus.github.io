@@ -29,6 +29,8 @@ url: https://musicus.github.io # the base hostname & protocol for your site, e.g
 # twitter_username: musicus
 github_username: musicus
 instagram_usernamer: keiner_wie_reiner
+# Author Default
+author: reiner krämer
 
 # Build settings
 # Removed minima theme, and re-purpose it as custom theme
