@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You've got a friend"
+title:  "You've Got a Friend"
 date:   2023-11-28 00:15:15 -0700
 categories: jekyll update
 ---
