@@ -2,7 +2,7 @@
 layout: post
 title:  "RIP Shane MacGowan of the Pogues"
 date:   2023-11-30 00:17:10 -0700
-categories: jekyll update
+# categories: jekyll update
 ---
 
 ### RIP Shane MacGowan
