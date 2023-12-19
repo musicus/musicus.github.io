@@ -2,7 +2,7 @@
 layout: post
 title:  "Flying Microtonal Banana"
 date:   2023-11-22 21:20:30 -0700
-# categories: jekyll update
+categories: blog
 ---
 
 ### Writing Proposals 🙂 
