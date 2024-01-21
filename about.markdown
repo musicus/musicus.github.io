@@ -6,6 +6,8 @@ permalink: /about/
 
 ### *musicus.io*: a site by *reiner kr&auml;mer*
 
+![Headshot](/assets/skipass.jpg)
+
 Reiner Krämer is a teacher, music theorist, composer, programmer, [digital humanist](https://www.thebritishacademy.ac.uk/blog/what-are-digital-humanities/){:target="_blank"}, [entrepreneur](https://www.mathnasium.com/boulder/about){:target="_blank"}, runner, and [telemark skier](https://www.youtube.com/watch?v=JCF_ejx4-Kc){:target="_blank"}, currently residing in the beautiful state of [Colorado](https://www.colorado.com){:target="_blank"}. 
 
 Reiner earned a Ph.D. in Music Theory with a related field in Computer Music Composition from the [University of North Texas (UNT) College of Music](https://music.unt.edu){:target="_blank"}, and worked for the [SIMSSA](http://simssa.ca){:target="_blank"} project as [Julie E. Cumming](https://www.mcgill.ca/music/julie-e-cumming){:target="_blank"}'s Postdoctoral Researcher within the [Music Technology](https://www.mcgill.ca/music/about-us/music-technology){:target="_blank"} and [Musicology](https://www.mcgill.ca/music/about-us/music-history-musicology){:target="_blank"} department at [McGill University](https://www.mcgill.ca){:target="_blank"}’s [Schulich School of Music](https://www.mcgill.ca/music/){:target="_blank"}. While in Montréal, Reiner was a member of the Centre for Interdisciplinary Research in Music Media and Technology ([CIRMMT](https://www.cirmmt.org/){:target="_blank"}). 
