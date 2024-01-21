@@ -18,4 +18,4 @@ The majority of Reiner's compositions center around audio/visual Improvisations 
 
 As a practicing musician, Reiner uses the computer as a musical instrument. He has performed at UNT on the Square, Crested Butte Music Festival, the Dairy Arts Center, KNGU, Studio Z, the New York City Electroacoustic Music Festival, and elsewhere.
 
-In a previous life Reiner sang and played saxophone in a rock band. 
+In a previous life Reiner sang and played saxophone in a rock band, although he still sings a lot teaching his aural skills courses, and scares his neighbors with his saxophone sounds frequently. 
