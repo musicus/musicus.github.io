@@ -29,13 +29,14 @@
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
-        {%- if site.last_updated -%}
-        <p>Last updated:&nbsp;{{-  site.last_updated | escape -}}</p>
+      <div class="footer-col footer-col-3"></div>
+
+    </div>
+      <div class="updated" style="font-size:.85em;color:lightgray">
+         {%- if site.last_updated -%}
+        <p>Last update:&nbsp;{{-  site.last_updated | escape -}}.</p>
         {%- endif -%}
       </div>
-    </div>
-
   </div>
 
 </footer>
