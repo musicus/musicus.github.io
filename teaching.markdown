@@ -25,3 +25,11 @@ permalink: /teaching/
 - Private Lessons: Composition
 - Doctoral Proposal Research
 - Doctoral Dissertation
+
+### Currently Teaching
+- Aural Skills I
+- Music Theory IV
+- Post Tonal Music
+- Undergraduate Composition Lessons
+- Graduate Composition Lessons
+
