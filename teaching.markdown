@@ -26,7 +26,7 @@ permalink: /teaching/
 - Doctoral Proposal Research
 - Doctoral Dissertation
 
-### Currently Teaching
+### Spring 2026 Teaching
 - Aural Skills I
 - Music Theory IV
 - Post Tonal Music
