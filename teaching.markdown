@@ -8,6 +8,7 @@ permalink: /teaching/
 - Fundamentals of Music Theory (by way of [Artusi](https://www.artusimusic.com){:target="_blank"})
 - Aural Skills I-IV
 - Music Theory I-IV
+- Undergraduate Composition Lessons
 - Music Appreciation for Non-Majors
 - Rock Music History 
 - Form & Analysis
@@ -15,7 +16,6 @@ permalink: /teaching/
 - Acoustics of Music
 - Advanced New Media Art
 - Directed Studies: Counterpoint, Post-Tonal Analysis, Computer Music
-- Undergraduate Composition Lessons
 
 ### Graduate Courses Taught
 - Post-Tonal Music
