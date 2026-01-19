@@ -4,11 +4,16 @@ title: Teaching
 permalink: /teaching/
 ---
 ### Undergraduate Courses Taught
+- Music Fundamentals
 - Fundamentals of Music Theory (by way of [Artusi](https://www.artusimusic.com){:target="_blank"})
 - Aural Skills I-IV
 - Music Theory I-IV
+- Music Appreciation for Non-Majors
+- Rock Music History 
 - Form & Analysis
+- Music Arranging and Technology
 - Acoustics of Music
+- Advanced New Media Art
 - Directed Studies: Counterpoint, Post-Tonal Analysis, Computer Music
 - Undergraduate Composition Lessons
 
