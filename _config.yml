@@ -37,6 +37,7 @@ author: reiner krämer
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # File Structure
 #include: [_pages]
