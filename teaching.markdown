@@ -15,7 +15,7 @@ permalink: /teaching/
 - Music Arranging and Technology
 - Acoustics of Music
 - Advanced New Media Art
-- Computer Assisted Music Notation (Finale, Sibelius, [LilyPond](https://lilypond.org{:target="_blank"})
+- Computer Assisted Music Notation (Finale, Sibelius, [LilyPond](https://lilypond.org{:target="_blank"}))
 - Directed Studies: Counterpoint, Post-Tonal Analysis, Computer Music
 
 ### Graduate Courses Taught
