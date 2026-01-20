@@ -15,7 +15,7 @@ permalink: /teaching/
 - Music Arranging and Technology
 - Acoustics of Music
 - Advanced New Media Art
-- Computer Assisted Music Notation
+- Computer Assisted Music Notation (Finale, Sibelius, [LilyPond](https://lilypond.org{:target="_blank"})
 - Directed Studies: Counterpoint, Post-Tonal Analysis, Computer Music
 
 ### Graduate Courses Taught
@@ -25,7 +25,7 @@ permalink: /teaching/
 - Electronic Music
 - Music since 1945
 - Rhythm, Meter, and Time in Music
-- Analytical Studies: Music Theory from 800-1700
+- Analytical Studies: Music Theory from 600-1680
 - Directed Studies: Counterpoint Survey
 - Masters Thesis
 - Graduate Composition Lessons
