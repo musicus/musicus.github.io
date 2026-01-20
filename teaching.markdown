@@ -15,6 +15,7 @@ permalink: /teaching/
 - Music Arranging and Technology
 - Acoustics of Music
 - Advanced New Media Art
+- Computer Assisted Music Notation
 - Directed Studies: Counterpoint, Post-Tonal Analysis, Computer Music
 
 ### Graduate Courses Taught
